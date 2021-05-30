@@ -1,0 +1,22 @@
+{
+  "name": "cdk-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "clean": "",
+    "build": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulanatol/cdk-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raulanatol/cdk-example/issues"
+  },
+  "homepage": "https://github.com/raulanatol/cdk-example#readme"
+}
